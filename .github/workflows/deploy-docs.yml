@@ -24,7 +24,7 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: 6LJWlN0WRvGF97IIlpxxV6ul
-          TURBO_TEAM: GXGO
+          TURBO_TEAM: gxgo
 
       - name: Deploy storybook
         working-directory: ./packages/docs
