@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@gx-ignite-ui/docs",
   "private": true,
   "license": "MIT",
   "version": "0.0.0",
@@ -12,9 +12,9 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@gx-ignite-ui/eslint-config": "*",
+    "@gx-ignite-ui/react": "*",
+    "@gx-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.4.1",
     "@storybook/storybook-deployer": "^2.8.16",
     "phosphor-react": "^1.4.1",
